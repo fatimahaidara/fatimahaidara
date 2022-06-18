@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
-- 🔭 I’m currently a Master's student on Machine Intelligence 
+- 🔭 I’m currently a Master's student in Machine Intelligence 
 - 🌱 I’m currently learning AI,Machine Learning 
 - 👯 I’m looking to collaborate on ML projects 
 - 🤔 I’m looking for help with more experiences
